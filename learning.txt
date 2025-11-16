@@ -1,1 +1,3 @@
+What I have learned from this course
+
 In this course, I have learned the fundamental concepts of version control and GitHub collaboration. Understanding how to fork a repository, make changes on a separate branch, and create pull requests has shown me the importance of collaborative workflows in software development. Git commands like clone, add, commit, and push are essential tools for managing code effectively. The ability to contribute to open-source projects through forking and pull requests demonstrates the power of distributed version control systems. This hands-on experience with GitHub has provided me with practical skills that are crucial for any software developer working in a team environment.
